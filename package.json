@@ -1,0 +1,27 @@
+{
+  "name": "salus-it600-pack",
+  "version": "1.1.0",
+  "description": "Salus iT600 Integration Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrmnt/salus-it600-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adrmnt/salus-it600-pack/issues"
+  },
+  "keywords": [
+    "salus",
+    "iT600"
+  ],
+  "author": "Adrian Manta",
+  "license": "ISC",
+  "homepage": "https://github.com/adrmnt/salus-it600-pack#readme",
+  "dependencies": {
+    "fast-json-parse": "^1.0.3"
+  },
+  "devDependencies": {}
+}
