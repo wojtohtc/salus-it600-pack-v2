@@ -1,25 +1,30 @@
 {
-  "name": "salus-it600-pack",
+  "name": "salus-it600-pack-v2",
   "version": "1.1.0",
-  "description": "Salus iT600 Integration Package",
+  "description": "Improved Salus iT600 integration library with UG600 gateway support and better error handling.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrmnt/salus-it600-pack.git"
+    "url": "git+https://github.com/wojtohtc/salus-it600-pack-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/adrmnt/salus-it600-pack/issues"
+    "url": "https://github.com/wojtohtc/salus-it600-pack-v2/issues"
   },
   "keywords": [
     "salus",
-    "iT600"
+    "it600",
+    "homebridge",
+    "thermostat",
+    "smart-home",
+    "gateway",
+    "UG600"
   ],
-  "author": "Adrian Manta",
-  "license": "ISC",
-  "homepage": "https://github.com/adrmnt/salus-it600-pack#readme",
+  "author": "Paweł <wojto.htc@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/wojtohtc/salus-it600-pack-v2#readme",
   "dependencies": {
     "fast-json-parse": "^1.0.3"
   },
